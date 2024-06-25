@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "": {"model":  "mod_amber:block/amber_ore"}
+  }
+}

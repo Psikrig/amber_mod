@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "": {"model":  "mod_amber:block/deepslate_amber_ore"}
+  }
+}
